@@ -1,4 +1,4 @@
-Hey, I'm a self-taught Pythonista and also a Ph.D student. Interested in artificial intelligence, autonomous driving and swarm UAVs ✨
+Hey, I'm a self-taught Pythonista and also a Ph.D student. Interested in artificial intelligence in Robotics, autonomous driving and swarm UAVs ✨
 
 
 <!---
